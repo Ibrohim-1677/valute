@@ -1,0 +1,19 @@
+body{
+    background-color: #777;
+}
+.form__input{
+    padding: 15px;
+    border-radius: 30px;
+}
+.form__select{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50%;
+}
+.form__bootten{
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.list{
+    text-align: center;
+}
